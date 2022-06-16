@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my_app/static/css/main.733f18aa.css",
+    "main.js": "/my_app/static/js/main.6ee5cbbf.js",
+    "static/media/cv.pdf": "/my_app/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/Jesus Reynaldo Campos Quiroga .png": "/my_app/static/media/Jesus Reynaldo Campos Quiroga .d0e901665c715ecbee22.png",
+    "index.html": "/my_app/index.html",
+    "main.733f18aa.css.map": "/my_app/static/css/main.733f18aa.css.map",
+    "main.6ee5cbbf.js.map": "/my_app/static/js/main.6ee5cbbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733f18aa.css",
+    "static/js/main.6ee5cbbf.js"
+  ]
+}
