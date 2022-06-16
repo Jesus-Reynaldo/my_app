@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
-
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
 *{
     margin:0;
     padding:0;
@@ -32,12 +32,13 @@ html {
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    /*font-family: 'Poppins', sans-serif;*/
+    font-family: 'Montserrat', sans-serif;
     background-color: var(--color-bg);
     color: var(--color-white);
     line-height:1.7;
     /*background-image:url('../src/assets/bg-texture.png');*/
-    background-image: radial-gradient(#005ba9 3px, transparent 3px), radial-gradient(#005ba9 3px, transparent 3px);
+    background-image: radial-gradient(#005ba9 3px, transparent 3px 10%), radial-gradient(#034782 4px, transparent 3px);
     background-size: 64px 64px;
     background-position: 0 0, 32px 32px;
 }
@@ -132,3 +133,4 @@ img{
         margin-bottom: 2rem;
     }
 }
+
